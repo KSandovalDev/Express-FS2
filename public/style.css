@@ -1,0 +1,20 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: pink;
+}
+img{
+  height: 200px;
+}
+
+.cashierContainer{
+  margin-left: 37%;
+}
+
+.size{
+  margin-left: 10%;
+}
+
+button:hover{
+  background-color: aquamarine;
+}
